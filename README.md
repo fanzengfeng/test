@@ -8,8 +8,7 @@
   ### Spring  
    1. [spirngboot](https://spring.io/projects/spring-boot)
   ### ORM框架
-   1. [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html)
-   2. [Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command)
+   1. [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html)   
      
  #### 要求    
  1. vue视频教程学完，按照视频完成项目开发。
