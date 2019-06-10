@@ -1,14 +1,15 @@
-#### 岗前培训
+# 岗前培训
 
-  # 代码规范  
+  ### 代码规范  
      1.代码规范：<<码出高效>>
-  # 前端  
+  ### 前端  
      1. [vue](https://cn.vuejs.org/)
      2. [elementUI](https://element.eleme.cn/#/zh-CN/guide/design)
-  # spring  
+  ### spring  
      1. [spirngboot](https://spring.io/projects/spring-boot)
-  # orm框架  
+  ### orm框架  
      1. [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html)
+     2. [Git常用命令备忘](http://robbinfan.com/blog/34/git-common-command)
      
  #### 要求
     
