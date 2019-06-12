@@ -1,16 +1,16 @@
 # 岗前培训
 
   ### 代码规范
-   代码规范：<<码出高效>>
+   1. 代码规范：<<码出高效>>
   ### 前端
-   [vue](https://cn.vuejs.org/)
-   [elementUI](https://element.eleme.cn/#/zh-CN/guide/design)
+   1. [vue](https://cn.vuejs.org/)
+   2. [elementUI](https://element.eleme.cn/#/zh-CN/guide/design)
   ### Spring  
-   [spirngboot](https://spring.io/projects/spring-boot)
+   1. [spirngboot](https://spring.io/projects/spring-boot)
   ### ORM框架
-   [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html)   
+   1. [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html)   
   ### 代码版本控制工具
-   [git](https://www.liaoxuefeng.com/wiki/896043488029600)
+   1. [git](https://www.liaoxuefeng.com/wiki/896043488029600)
      
  #### 要求    
  1. vue视频教程学完，按照视频完成项目开发。
