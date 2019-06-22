@@ -1,7 +1,7 @@
 # 岗前培训
  ## 研发部入职要求
   ### 代码规范
-   1. 代码规范：<<码出高效>>
+   1. 代码规范：[码出高效](https://github.com/fanzengfeng/test/blob/master/%E7%A0%81%E5%87%BA%E9%AB%98%E6%95%88.pdf)
   ### 前端
    1. [vue](https://cn.vuejs.org/)
    2. [elementUI](https://element.eleme.cn/#/zh-CN/guide/design)
