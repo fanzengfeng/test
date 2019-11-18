@@ -37,6 +37,6 @@
  #### gitlab
    访问 http://192.168.2.111 注册帐号
   > 注：
-  > full name ：为自己的真实的姓名
+  > full name ：为自己的真实的姓名（中文）
   > username  ：姓名全拼
   > email     : 公司邮箱
