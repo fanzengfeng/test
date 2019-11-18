@@ -29,6 +29,7 @@
   1. 公司统一分配邮箱。
   2. 收到邮箱后，访问： [http://mail.jaderd.com/](http://mail.jaderd.com/) 点击：找回密码，绑定在是你们自己的手机号
   3. 用foxmail客户端登陆,设置成每日开机启动,会主动推送相关任务邮件。
+  4. 邮箱命名规则 名.姓@jaderd.com 例 zengfeng.fan@jaderd.com
  #### 钉钉
   1. 注册钉钉
   2. 加入相关工作组，按统一要求，打卡、发送日报。
