@@ -40,3 +40,8 @@
   > full name ：为自己的真实的姓名（中文）
   > username  ：姓名全拼
   > email     : 公司邮箱
+ #### jira
+  > 根据邮箱里的邀请链接注册jira帐号
+  > full name ：为自己的真实的姓名（中文）
+  > username  ：姓名全拼
+  > email     : 公司邮箱
